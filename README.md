@@ -24,6 +24,12 @@
 4. 실시간 데이터 확인
 5. 확인한 결과 정리해서 보여주기
 
+## Setup
+1. cd main
+2. chmod +x start_project.sh
+3. ./start_project.sh
+
+
 ## 디렉토리 구조
 ```
 .  
